@@ -1,0 +1,22 @@
+					Core Features & Used Tools
+
+
+
+Admin Module :
+
+  1. Add courses of the semester
+  2. Add marks of the students
+  3. Post a certain notice
+
+
+Student Module :
+
+  1. Show the previous semester result
+  2. Show their summary
+  3. Show the respective notices
+
+
+Tools Used:
+
+  1. C-programming Language
+  2. Code Blocks
